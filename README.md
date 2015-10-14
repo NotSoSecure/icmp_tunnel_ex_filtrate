@@ -4,7 +4,7 @@ __icmp_transmitter.exe__ is an executable used to send files on one system to an
 
 ### Usage:
 
-icmp_transmitter.exe "input_file_to_be_sent" "IP_address_to_be_sent"
+```icmp_transmitter.exe "input_file_to_be_sent" "IP_address_to_be_sent"```
 
 at the server end:
  
